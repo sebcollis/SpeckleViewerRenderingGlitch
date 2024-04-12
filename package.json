@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^9.0.0"
+  },
+  "dependencies": {
+    "@speckle/viewer": "^2.18.14"
   }
 }
